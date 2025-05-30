@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Pablo
 
-<!--
-**pabloca0/pabloca0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador iOS con experiencia avanzada en Swift, SwiftUI y UIKit.  
+🚀 Me especializo en crear apps de alto rendimiento con código limpio y excelente UX.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Stack principal
+
+- Swift, SwiftUI, UIKit  
+- Combine, CoreData, Firebase  
+- Fastlane, GitHub Actions, XCTest
+- API integrations
+
+---
+
+## 📱 Proyectos destacados
+
+- **[App1](https://link)** – [breve descripción]
+- **[App2](https://link)** – [breve descripción]
+
+---
+
+## 📬 Contacto
+
+- [LinkedIn](https://linkedin.com/in/pablo-cea)  
+- [GitHub](https://github.com/pabloca0)

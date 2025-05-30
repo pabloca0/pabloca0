@@ -1,27 +1,27 @@
-# 👋 ¡Hola! Soy Pablo
+# 👋 Hi, I'm Pablo
 
-🎯 Desarrollador iOS con experiencia avanzada en Swift, SwiftUI y UIKit.  
-🚀 Me especializo en crear apps de alto rendimiento con código limpio y excelente UX.
+🎯 iOS Developer with advanced experience in Swift, SwiftUI, and UIKit.  
+🚀 I specialize in building high-performance apps with clean code and great user experience.
 
 ---
 
-## 🧰 Stack principal
+## 🧰 Main Tech Stack
 
 - Swift, SwiftUI, UIKit  
 - Combine, CoreData, Firebase  
-- Fastlane, GitHub Actions, XCTest
+- Fastlane, GitHub Actions, XCTest  
 - API integrations
 
 ---
 
-## 📱 Proyectos destacados
+## 📱 Featured Projects
 
-- **[App1](https://link)** – [breve descripción]
-- **[App2](https://link)** – [breve descripción]
+- **[App1](https://link)** – [short description]  
+- **[App2](https://link)** – [short description]
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 - [LinkedIn](https://linkedin.com/in/pablo-cea)  
 - [GitHub](https://github.com/pabloca0)

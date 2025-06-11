@@ -25,3 +25,4 @@
 
 - [LinkedIn](https://linkedin.com/in/pablo-cea)  
 - [GitHub](https://github.com/pabloca0)
+- [Portfolio](https://pablocea.dev)

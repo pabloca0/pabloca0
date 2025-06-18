@@ -12,15 +12,6 @@
 - Fastlane, GitHub Actions, XCTest  
 - API integrations
 
----
-
-## 📱 Featured Projects
-
-- **[App1](https://link)** – [short description]  
-- **[App2](https://link)** – [short description]
-
----
-
 ## 📬 Contact
 
 - [LinkedIn](https://linkedin.com/in/pablo-cea)  
